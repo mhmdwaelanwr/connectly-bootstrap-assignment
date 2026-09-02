@@ -15,3 +15,6 @@ Notes:
 This is a beginner front-end practice project using Bootstrap, CSS and basic JavaScript.
 The JavaScript is intentionally kept simple and repetitive for learning purposes.
 It does not save accounts or send data to a server.
+
+Deployment:
+Connected to Vercel through GitHub for automatic deployments from the main branch.
