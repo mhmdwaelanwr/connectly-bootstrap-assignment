@@ -12,6 +12,33 @@ A small **university front-end practice project** built to demonstrate Bootstrap
 - `js/login-check.js` — basic login-form validation.
 - `js/register-check.js` — basic registration-form validation.
 
+## Screenshots
+
+Project screenshots live in [`assets/screenshots`](./assets/screenshots/).
+
+Recommended filenames:
+
+- `login-desktop.png`
+- `register-desktop.png`
+- `login-mobile.png`
+- `register-mobile.png`
+
+Once the screenshots are uploaded, they can be embedded here for a quick visual preview.
+
+<!--
+### Login — Desktop
+![Login page on desktop](./assets/screenshots/login-desktop.png)
+
+### Register — Desktop
+![Register page on desktop](./assets/screenshots/register-desktop.png)
+
+### Login — Mobile
+![Login page on mobile](./assets/screenshots/login-mobile.png)
+
+### Register — Mobile
+![Register page on mobile](./assets/screenshots/register-mobile.png)
+-->
+
 ## Technology
 
 - HTML5
