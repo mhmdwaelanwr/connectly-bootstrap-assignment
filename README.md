@@ -1,8 +1,9 @@
 # Connectly — Bootstrap Login Assignment
 
-A small **university front-end practice project** built to demonstrate Bootstrap layout, responsive forms, and basic client-side JavaScript validation.
+A responsive Bootstrap 5 login and registration interface built to practice layout, forms, responsiveness, and basic client-side JavaScript validation.
 
-> **Scope:** coursework / learning exercise. This is not a production authentication system and it does not create, persist, or transmit real user accounts.
+> **DEPI Front-End Development Task**  
+> This repository contains a practical assignment completed as part of the **Digital Egypt Pioneers Initiative (DEPI)** Front-End Development training track. It documents hands-on progress through the program and is intended as a learning/task submission rather than a production product.
 
 ## Demo
 
@@ -34,7 +35,7 @@ An internet connection is required for Bootstrap assets loaded from the CDN.
 
 ## Learning goals
 
-The project intentionally keeps its JavaScript and page structure simple so the implementation remains appropriate for an introductory Bootstrap assignment.
+The project intentionally keeps its JavaScript and page structure simple so the implementation remains appropriate for an introductory front-end assignment.
 
 It demonstrates:
 
@@ -47,6 +48,7 @@ It demonstrates:
 
 The forms are demonstrations only. There is no backend, database, password storage, session management, or real authentication.
 
-## Author
+---
 
-Created by [Mohamed Anwar](https://github.com/mhmdwaelanwr) as a front-end learning project.
+**Training:** Digital Egypt Pioneers Initiative (DEPI) — Front-End Development Track  
+**Author:** [Mohamed Anwar](https://github.com/mhmdwaelanwr)
