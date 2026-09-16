@@ -4,6 +4,15 @@ A small **university front-end practice project** built to demonstrate Bootstrap
 
 > **Scope:** coursework / learning exercise. This is not a production authentication system and it does not create, persist, or transmit real user accounts.
 
+## Demo
+
+<p align="center">
+  <img src="./assets/screenshots/one_image.png" alt="Connectly project screenshot 1" width="49%">
+  <img src="./assets/screenshots/tow_image.png" alt="Connectly project screenshot 2" width="49%">
+</p>
+
+> More project images are available in [`assets/screenshots`](./assets/screenshots/).
+
 ## Pages
 
 - `index.html` — login form.
@@ -11,33 +20,6 @@ A small **university front-end practice project** built to demonstrate Bootstrap
 - `css/page.css` — small custom style layer on top of Bootstrap.
 - `js/login-check.js` — basic login-form validation.
 - `js/register-check.js` — basic registration-form validation.
-
-## Screenshots
-
-Project screenshots live in [`assets/screenshots`](./assets/screenshots/).
-
-Recommended filenames:
-
-- `login-desktop.png`
-- `register-desktop.png`
-- `login-mobile.png`
-- `register-mobile.png`
-
-Once the screenshots are uploaded, they can be embedded here for a quick visual preview.
-
-<!--
-### Login — Desktop
-![Login page on desktop](./assets/screenshots/login-desktop.png)
-
-### Register — Desktop
-![Register page on desktop](./assets/screenshots/register-desktop.png)
-
-### Login — Mobile
-![Login page on mobile](./assets/screenshots/login-mobile.png)
-
-### Register — Mobile
-![Register page on mobile](./assets/screenshots/register-mobile.png)
--->
 
 ## Technology
 
