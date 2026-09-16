@@ -11,8 +11,6 @@ A small **university front-end practice project** built to demonstrate Bootstrap
   <img src="./assets/screenshots/tow_image.png" alt="Connectly project screenshot 2" width="49%">
 </p>
 
-> More project images are available in [`assets/screenshots`](./assets/screenshots/).
-
 ## Pages
 
 - `index.html` — login form.
